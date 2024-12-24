@@ -1,7 +1,7 @@
 # ai_gant_news
 
 <div align="center">
-  <img src="public/gant.png" alt="AI Timeline Screenshot" width="100%">
+  <img src="gant.png" alt="AI Timeline Screenshot" width="100%">
   <p align="center">
     <em>Interactive AI Development Timeline with Bilingual Support</em>
   </p>
