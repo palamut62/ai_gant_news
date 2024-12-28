@@ -1,11 +1,6 @@
 # ai_gant_news
 
-<div align="center">
-  <img src="gant.png" alt="AI Timeline Screenshot" width="100%">
-  <p align="center">
-    <em>Interactive AI Development Timeline with Bilingual Support</em>
-  </p>
-</div>
+![Ollama Desktop Screenshot](gant.png)
 
 A dynamic web application that tracks and visualizes artificial intelligence developments on an interactive timeline. Created by [palamut62](https://github.com/palamut62) and deployed at [umutcelik.online](https://umutcelik.online).
 
